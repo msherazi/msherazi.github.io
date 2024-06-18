@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://science.gmu.edu/academics/departments-units/physics-and-astronomy-department'>George Mason University Dept. of Physics & Astronomy</a>
 
 profile:
   align: right
