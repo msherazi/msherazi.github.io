@@ -5,8 +5,8 @@ permalink: /
 subtitle: <a href='https://science.gmu.edu/academics/departments-units/physics-and-astronomy-department'>George Mason University Dept. of Physics & Astronomy</a>
 
 profile:
-  align: left
-  image: headshot.jpeg
+  align: right
+  image: headshot1.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Photo of me at the Udvar Hazy Center</p>
