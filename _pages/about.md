@@ -6,7 +6,7 @@ subtitle: <a href='https://science.gmu.edu/academics/departments-units/physics-a
 
 profile:
   align: right
-  image: headshot1.jpeg
+  image: headshot1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Photo of me at the Udvar Hazy Center</p>
