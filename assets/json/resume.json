@@ -21,13 +21,12 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "George Mason University Dept. of Chemistry & Biochemistry",
+      "position": "Undergraduate Research Assistant",
+      "url": "https://science.gmu.edu/academics/departments-units/chemistry-biochemistry",
+      "startDate": "01-2023",
+      "endDate": "Present",
+      "summary": "Utilizing variational quantum algorithms for simulation of quantum dynamical processes."
     }
   ],
   "volunteer": [
@@ -44,14 +43,12 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
+      "institution": "George Mason University",
+      "location": "Fairfax, VA",
+      "url": "https://www.gmu.edu/",
+      "studyType": "B.S. in Physics",
       "startDate": "1905-01-01",
       "endDate": "1905-01-01",
-      "score": "10",
       "courses": ["Theory of Relativity"]
     }
   ],
