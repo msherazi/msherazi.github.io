@@ -4,8 +4,8 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf
-description:
+cv_pdf: msheraziCV.pdf
+description: Please see the above .pdf file for a more detailed CV. 
 toc:
   sidebar: left
 ---
