@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='https://science.gmu.edu/academics/departments-units/physics-and-astronomy-department'>George Mason University Dept. of Physics & Astronomy</a>
 
 profile:
-  align: right
+  align: left
   image: headshot.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
