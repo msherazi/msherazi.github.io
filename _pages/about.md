@@ -21,10 +21,7 @@ Hello, my name is Mohammad Sherazi. I am a Physics and Computer Science student 
 My professional interests lie at the intersection of physics and computer science, especially projects which involve applying optimization techniques and numerical analysis to problems in physics, whether it be quantum computing, orbital dynamics, or simulations of electromagnetic phenomena, among other things. 
 
 In my free time you can catch me reading books, watching basketball, and throwing around a frisbee.
-
-&NewLine;
-&NewLine;
-&NewLine;
-&NewLine;
-
+<br/><br/>
+<br/><br/>
+<br/><br/>
 ---
