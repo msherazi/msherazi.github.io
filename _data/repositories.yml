@@ -2,5 +2,5 @@ github_users:
   - msherazi
 
 github_repos:
-  - msherazi/msherazi.github.io
   - msherazi/variational-quantum-dynamics
+  - msherazi/astro-simulation
